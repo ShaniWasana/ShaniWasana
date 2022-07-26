@@ -1,10 +1,13 @@
  Hi..
 
-<![wlecome](https://user-images.githubusercontent.com/107869779/181091532-956599f3-8f70-49a4-8ed3-6b01ae05b922.gif) height="200" width="200">
+![wlecome](https://user-images.githubusercontent.com/107869779/181091532-956599f3-8f70-49a4-8ed3-6b01ae05b922.gif) 
 <br>
 
 😊I"m a student....<br>
 🌱 I’m currently learning Java ,Html, CSS etc...
+
+![nw](https://user-images.githubusercontent.com/107869779/181092627-180d8af3-1fcb-4160-96d5-a4605c226c87.jpg)
+
 
 
 <!--

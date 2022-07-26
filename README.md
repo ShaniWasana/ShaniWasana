@@ -1,21 +1,8 @@
- Hi...
-
-![S3CK](https://user-images.githubusercontent.com/107869779/181090314-0a058d6a-8077-43db-b7f0-5770cbd9a59a.gif)
-
-<br>
-
-
-
-
-hii...
+ Hi..
 
 ![wlecome](https://user-images.githubusercontent.com/107869779/181091532-956599f3-8f70-49a4-8ed3-6b01ae05b922.gif)
 
 <br>
-
-
-
-
 
 😊I"m a student....<br>
 🌱 I’m currently learning Java ,Html, CSS etc...

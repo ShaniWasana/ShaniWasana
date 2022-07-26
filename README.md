@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hi there 👋
+ <img src="C:\Users\rukshani wasana\Downloads\Telegram Desktop\nw" height="200"width="200">
+😊I"m a student....
+🌱 I’m currently learning Java ,Html, CSS etc...
+
 
 <!--
 **ShaniWasana/ShaniWasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
- 
-https://user-images.githubusercontent.com/107869779/181089625-f436c9b7-f157-4040-8215-9d1a43ea71a2.mp4
+ Hi...
+
+![S3CK](https://user-images.githubusercontent.com/107869779/181090314-0a058d6a-8077-43db-b7f0-5770cbd9a59a.gif)
 
 😊I"m a student....<br>
 🌱 I’m currently learning Java ,Html, CSS etc...

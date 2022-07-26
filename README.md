@@ -1,6 +1,6 @@
- Hi there 👋
- ![nw](https://user-images.githubusercontent.com/107869779/180977557-9571d2b3-f2df-4289-a365-6f705bea2cd3.jpg)
-😊I"m a student....
+ Hi there 👋<br>
+ ![nw](https://user-images.githubusercontent.com/107869779/180977557-9571d2b3-f2df-4289-a365-6f705bea2cd3.jpg)<gr>
+😊I"m a student....<br>
 🌱 I’m currently learning Java ,Html, CSS etc...
 
 

@@ -1,5 +1,13 @@
 <h1 align="center">Hello Guyz 👋, I'm Rukshani Wasana.</h1>
 
+
+
+<div align="center"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka;Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer)](https://git.io/typing-svg)
+</div>
+
+
+
 - 🔭 IJSE.
 - 🌱 Computer Science...
 - 💬 Ask me whatsapp - +94 776172095
@@ -7,12 +15,23 @@
 - school : Mary Immaculate Convent (2006-2019) 
 - address :16/1/A Robbialac road, Kanuwana,Ja ela,srilanka
 - hobbies :listerning songs,watching films
+- ⚜ My Git Hub link : [My Profile](https://github.com/Hasitha-ShaniWasana)
 
+- 👨‍💻 All of my projects are available at [Here!](https://github.com/ShaniWasana?tab=repositories)
+
+## Social Media
+<p><a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ShaniWasana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://instagram.com/RukshaniWasana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hasi__boy__" height="30" width="40" /></a>
+
+</p>
 
 <p align="Right">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/ShaniWasana">
 </p>
+
+###  :fire: My Status : [Go Here !](https://github-readme-streak-stats.herokuapp.com/?user=ShaniWasana) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hasitha-ShaniWasana&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # My Github Status😎
 ![Metrics](https://metrics.lecoq.io/ShaniWasana?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&pagespeed=1&tweets=1&posts=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=https%3A%2F%2Foshadaera68.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=mindartLk10&posts.user=oshadaera68_&config.timezone=Asia%2FColombo)
@@ -29,10 +48,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a><br><br>
 
-## Social Media
-<p><a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ShaniWasana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
-</p>
+
 
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
@@ -52,8 +68,76 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-![wlecome](https://user-images.githubusercontent.com/107869779/181091532-956599f3-8f70-49a4-8ed3-6b01ae05b922.gif) 
-<br>
+
+
+
+  
+
+
+
+
+ 
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en" alt="hasitha-lakshan404" /></p>  older one with light theam-->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p><br> 
+
+
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaniWasana&show_icons=true&locale=en&layout=compact" alt="ShaniWasana" /></p>  older one with light theam --> 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasitha-lakshan404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p>
+<!-- <img align="right" alt="block" width="250" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"> -->
+
+
+
+<!-- Snake -->
+<div align="center">
+  
+**My Contributions** 🤔 <br>
+<!--   <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
+![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/red-alpha/github-contribution-grid-snake.svg)
+</div>
+
+
+<div align="center">
+
+<!-- <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
+
+</div><br>
+
+
+
+<div id="badges" align="center">
+ <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a>
+  <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
+</div>
+
+
+
+<!-- ======= -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShaniWasana&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaniWasana&theme=github_dark"/>
+</div>
+ -->
+<!-- ========== -->
+
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaniWasana&" alt="ShaniWasana" /></p>  -->
+
+<p align="center">
+  <img width="850" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p> 
 
 
 ![nw](https://user-images.githubusercontent.com/107869779/181092627-180d8af3-1fcb-4160-96d5-a4605c226c87.jpg)

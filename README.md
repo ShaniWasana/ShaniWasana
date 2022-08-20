@@ -125,7 +125,7 @@
 <p align="center">
   <img width="850" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p> 
-![nw](https://user-images.githubusercontent.com/107869779/181092627-180d8af3-1fcb-4160-96d5-a4605c226c87.jpg)
+
 
 
 

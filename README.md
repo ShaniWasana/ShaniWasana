@@ -1,12 +1,4 @@
-<h1 align="center">Hello Guyz 👋, I'm Rukshani Wasana.</h1>
-
-
-
-<div align="center"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka;Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer)](https://git.io/typing-svg)
-</div>
-
-
+<h1 align="center">Hi💗, I'm Rukshani Wasana.</h1>
 
 - 🔭 IJSE.
 - ♥ Software Engineering...
@@ -50,7 +42,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana" alt="ShaniWasana|Status"/>
 <p align="center"> <img src="https://github-readme-streak-status.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
 

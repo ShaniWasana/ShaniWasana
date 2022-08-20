@@ -92,16 +92,7 @@
 
 
 
-<!-- Snake -->
-<div align="center">
-  
-**My Contributions** 🤔 <br>
-<!--   <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
-![snake](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/red-alpha/github-contribution-grid-snake.svg)
-</div>
 
-
-<div align="center">
 
 <!-- <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
 

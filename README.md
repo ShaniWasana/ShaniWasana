@@ -47,6 +47,24 @@
 
 
 
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShaniWasana&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaniWasana&theme=github_dark"/>
+</div>
+
+
+
+
+<p align="center">
+  <img width="850" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p> 
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 
@@ -60,73 +78,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/ShaniWasana/ShaniWasana?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/ShaniWasana/ShaniWasana?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 </div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-
-
-
-  
-
-
-
-
- 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en" alt="ShaniWasana" /></p>  older one with light theam-->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p><br> 
-
-
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaniWasana&show_icons=true&locale=en&layout=compact" alt="ShaniWasana" /></p>  older one with light theam --> 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasitha-lakshan404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p>
- <img align="right" alt="block" width="250" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"> -->
-
-
-
-
-
- <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
-</div><br>
-
-
-
-<div id="badges" align="center">
- <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a>
-  <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
-</div>
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShaniWasana&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaniWasana&theme=github_dark"/>
-</div>
-
-<!-- ========== -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaniWasana&" alt="ShaniWasana" /></p> 
-
-<p align="center">
-  <img width="850" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p> 
-
-
-
-
-
 

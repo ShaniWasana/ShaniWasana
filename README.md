@@ -15,15 +15,13 @@
 <img alt="Profile followers" src="https://img.shields.io/github/followers/ShaniWasana">
 </p>
 
-## Social Media
-<p><a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ShaniWasana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+
 
 
 
 
 # My Github Status
-![Metrics](https://metrics.lecoq.io/ShaniWasana?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&&activity=1&achievements=1&&lines=1&repositories=1&posts=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&)
+![Metrics](https://metrics.lecoq.io/ShaniWasana?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&&activity=1&achievements=1&&lines=1&repositories=1&posts=1&base.indepth=false&repositories=100&repositories.batch=100&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&)
 
 ## 🔗  Languages and Tools
 <a align="center">
@@ -52,7 +50,9 @@
 </div>
 
 
-
+## Social Media
+<p><a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ShaniWasana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 <h5 align="center">

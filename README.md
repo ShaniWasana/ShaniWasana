@@ -51,20 +51,18 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-readme-streak-status.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShaniWasana&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/status?username=ShaniWasana&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaniWasana&theme=github_dark"/>
 </div>
 
 
 
 
-<p align="center">
-  <img width="850" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p> 
+
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 <br>

@@ -42,11 +42,11 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana" alt="ShaniWasana|Status"/>
-<p align="center"> <img src="https://github-readme-streak-status.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
+<p align="left"> <img src="https://github-readme-streak-status.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
 
-<div align="center">
+<div align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/status?username=ShaniWasana&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaniWasana&theme=github_dark"/>
 </div>

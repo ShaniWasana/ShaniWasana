@@ -7,7 +7,7 @@
 - school : Mary Immaculate Convent (2006-2019) 
 - address :16/1/A Robbialac road, Kanuwana,Ja ela,srilanka
 - hobbies :listerning songs,watching films
-- ⚜ My Git Hub link : [My Profile](https://github.com/Hasitha-ShaniWasana)
+- ⚜ My Git Hub link : [My Profile](https://github.com/ShaniWasana)
 
 - 👨‍💻 All of my projects are available at [Here!](https://github.com/ShaniWasana?tab=repositories)
 <br>

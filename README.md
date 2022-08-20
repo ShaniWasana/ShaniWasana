@@ -76,26 +76,25 @@
  
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en" alt="ShaniWasana" /></p>  older one with light theam-->
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en" alt="ShaniWasana" /></p>  older one with light theam-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasitha-ShaniWasana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p><br> 
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaniWasana&show_icons=true&locale=en&layout=compact" alt="ShaniWasana" /></p>  older one with light theam --> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaniWasana&show_icons=true&locale=en&layout=compact" alt="ShaniWasana" /></p>  older one with light theam --> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasitha-lakshan404&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hasitha-lakshan404" /></p>
-<!-- <img align="right" alt="block" width="250" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"> -->
+ <img align="right" alt="block" width="250" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"> -->
 
 
 
 
 
-<!-- <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
-
+ <img alt="block" width="850" height="100" src="https://cdn130.picsart.com/321303410037201.gif?to=crop&type=webp&r=40x40&q=50"> -->
 </div><br>
 
 

@@ -4,9 +4,12 @@
 - ♥ Software Engineer👩‍🎓...
 - +94 776172095📱
 - hlisterning songs,watching films🎧
-- [FB Profile!]( https://www.facebook.com/profile.php?id=100083680760096)🙋‍♀️
-- [My Profile!](https://github.com/ShaniWasana)👩🏻‍💻👩🏻‍🎓
-- All of my projects are available at [Here!](https://github.com/ShaniWasana?tab=repositories)🖇📝
+- [My FB Profile]( https://www.facebook.com/profile.php?id=100083680760096)🙋‍♀️
+- [My GitHub Profile](https://github.com/ShaniWasana)👩🏻‍💻👩🏻‍🎓
+- [My Instagram Profile]
+- [My Twitter Profile]
+- [My LinkedIn Profile]
+- All of my projects are available at [Here](https://github.com/ShaniWasana?tab=repositories)🖇📝
 <br>
 <p align="left">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/ShaniWasana">
@@ -43,17 +46,18 @@
 
 ## Social Media
 <p><a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ShaniWasana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-<h5 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-<br>
-<p>
+ <p>
 <div id="badges" align="center">
  <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a>
   <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
 </div>
 </p> 
+</p>
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+<br>
+
 </h5>
 <br>
 

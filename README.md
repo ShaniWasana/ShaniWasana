@@ -16,7 +16,7 @@
 <br>
 <p align="left">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/ShaniWasana">
- <img alt="Profile following" src="https://img.shields.io/github/following/ShaniWasana">
+ 
 </p>
 
 ## 🔗--Languages and Tools--
@@ -33,8 +33,8 @@
 <br>
 <br>
 <br>
-## 🔗--My Git Hub Status--
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
+## 🔗--My Github Status--
+<p align="left"> <img src="https://github-readme-status.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
 <p align="left"> <img src="https://github-readme-streak-status.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
 

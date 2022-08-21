@@ -16,6 +16,7 @@
 <br>
 <p align="left">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/ShaniWasana">
+ <img alt="Profile following" src="https://img.shields.io/github/following/ShaniWasana">
 </p>
 
 ## 🔗--Languages and Tools--

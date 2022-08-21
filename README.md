@@ -26,12 +26,9 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a><br><br>
-
-
-
-
-
-
+<br>
+<br>
+<br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ShaniWasana&show_icons=true&theme=gotham" alt="ShaniWasana|Status"/>
 <p align="left"> <img src="https://github-readme-streak-status.herokuapp.com?user=ShaniWasana&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaniWasana&theme=github_dark"/> </p>
@@ -46,12 +43,14 @@
 ## 🔗--Social Meida--
 
 <div id="badges" align="center">
-<a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><br>
- <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
- <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a><br>
+<a href="https://github.com/ShaniWasana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+ <a href="https://LinkedIn.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://youtube.com" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a>
   <a href="https://Twitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="YouTube"  /></a>
 </div>
 
+<br>
+<br>
 <br>
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝

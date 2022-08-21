@@ -5,13 +5,13 @@
 - hlisterning songs,watching films🎧
 - <a href="Tel:+94776172095">Call</a>
 - Contact Details:
--      [Whatsapp](http://wa.me/+94776172095?text=Hi_Shani)
--      [My Facebook Profile]( https://www.facebook.com/profile.php?id=100083680760096)🙋‍♀️
--      [My GitHub Profile](https://github.com/ShaniWasana)👩🏻‍💻👩🏻‍🎓
--      [My Instagram Profile](instagram.com/_shani_wasana_)
--      [My Telegram Profile](https://t.me/shani_Rukshani?text=Hi_Rukshani)
--      [My Twitter Profile](https://twitter.com/Rukshani_Wasana)
--      [My LinkedIn Profile](https://www.linkedin.com/in/rukshani-wasana-3556bb245/)
+- [Whatsapp](http://wa.me/+94776172095?text=Hi_Shani)
+- [My Facebook Profile]( https://www.facebook.com/profile.php?id=100083680760096)🙋‍♀️
+- [My GitHub Profile](https://github.com/ShaniWasana)👩🏻‍💻👩🏻‍🎓
+- [My Instagram Profile](instagram.com/_shani_wasana_)
+- [My Telegram Profile](https://t.me/shani_Rukshani?text=Hi_Rukshani)
+- [My Twitter Profile](https://twitter.com/Rukshani_Wasana)
+- [My LinkedIn Profile](https://www.linkedin.com/in/rukshani-wasana-3556bb245/)
 - All of my projects are available at [Here](https://github.com/ShaniWasana?tab=repositories)🖇📝
 <br>
 <p align="left">

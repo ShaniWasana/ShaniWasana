@@ -3,7 +3,7 @@
 - I am a Student👩🏻‍💻
 - ♥ Software Engineer👩‍🎓...
 - hlisterning songs,watching films🎧
-- <a href="Tel:+94776172095">Call</a>
+- <a href="Tel:776172095">Call</a>
 - Contact Details:
 - [Whatsapp](http://wa.me/+94776172095?text=Hi_Shani)
 - [My Facebook Profile]( https://www.facebook.com/profile.php?id=100083680760096)🙋‍♀️

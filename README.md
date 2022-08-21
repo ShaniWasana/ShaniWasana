@@ -2,8 +2,8 @@
 
 - I am a Student👩🏻‍💻
 - ♥ Software Engineer👩‍🎓...
-- [call](tel:+94776172095)
-- [Whatsapp](http://wa.me/+94724880802?text=Hi_Shani)
+- <a href="Tel:+94776172095">Call</a>
+- [Whatsapp](http://wa.me/+94776172095?text=Hi_Shani)
 - hlisterning songs,watching films🎧
 - [My FB Profile]( https://www.facebook.com/profile.php?id=100083680760096)🙋‍♀️
 - [My GitHub Profile](https://github.com/ShaniWasana)👩🏻‍💻👩🏻‍🎓

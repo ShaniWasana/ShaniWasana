@@ -2,7 +2,7 @@
 
 - I am a Student👩🏻‍💻
 - ♥ Software Engineer👩‍🎓...
-- hlisterning songs,watching films🎧
+- Listerning songs,watching films🎧
 - <a href="Tel:743030799">Call</a>
 - Contact Details:
 - [Whatsapp](http://wa.me/+94743030799?text=Hi_Shani)
